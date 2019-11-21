@@ -2,7 +2,7 @@ package project;
 
 import java.sql.Date;
 
-public class GListDTO {
+public class GListDTO { 
 	private String no; //제품번호
 	private String local; //제품을 소유한 회사
 	private String name; //제품이름

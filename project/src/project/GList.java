@@ -64,7 +64,7 @@ public class GList extends JFrame {
 		cols.add("납품일자");
 		cols.add("단가");
 		cols.add("수량");
-		cols.add("총금액");
+		cols.add("총금액"); 
 		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 643, 387);

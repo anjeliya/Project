@@ -16,7 +16,7 @@ import java.awt.event.ActionEvent;
 
 public class GListSave extends JFrame {
 
-	private JPanel contentPane;
+	private JPanel contentPane; 
 	private JTextField tfNo;
 	private JTextField tfLocal;
 	private JTextField tfName;

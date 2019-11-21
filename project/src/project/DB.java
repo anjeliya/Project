@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class DB {
 	//mySQL 접속용
-	public static Connection dbConn() {
+	public static Connection dbConn() { 
 		Connection conn=null;
 		try {
 			FileInputStream fis=new FileInputStream("d:\\db.prop");

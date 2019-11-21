@@ -8,7 +8,7 @@ import java.util.Vector;
 //자바에서는 동적인 길이로 여러 데이터형을 저장하기 위해 'Vector 클래스'를 제공한다.
 //'Vector 클래스'는 가변 길이의 배열이라고 할 수 있다.
 
-public class GListDAO {
+public class GListDAO { 
 	//실행후 테이블에 전체 품목이 보이도록
 	public Vector listGList() {
 		//ArrayList는 JTable과 잘 호환이 안되므로 Vector 사용
